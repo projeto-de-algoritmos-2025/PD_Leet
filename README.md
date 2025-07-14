@@ -16,8 +16,8 @@ Este projeto visa resolver questões do leetcode relacionadas a algoritimos de P
 |----------|----------------------------------------|-------------|
 | 1235      | [Maximum Profit in Job Scheduling](https://leetcode.com/problems/maximum-profit-in-job-scheduling/description)                        | Difícil       |
 |  72    | [Edit Distance](https://leetcode.com/problems/edit-distance/description)                        | Médio     |
-| -     | []()                        | Médio       |
-| -    | []()                        | Difícil     |
+| 1043     | [Partition Array for Maximum Sum](https://leetcode.com/problems/partition-array-for-maximum-sum/description/)                        | Médio       |
+| 1402    | [Reducing Dishes](https://leetcode.com/problems/reducing-dishes/description/)                        | Difícil     |
 
 ## Apresentação
 
@@ -27,19 +27,19 @@ Este projeto visa resolver questões do leetcode relacionadas a algoritimos de P
 
 ### [Maximum Profit in Job Scheduling](https://leetcode.com/problems/maximum-profit-in-job-scheduling/description)
 
-![](./img/IMAGEM.png)
+![](./img/maximum-profit.jpg)
 
 ### [Edit Distance](https://leetcode.com/problems/edit-distance/description)
 
-![](./img/IMAGEM.png)
+![](./img/edit-distance.jpg)
 
-### [](LINK)
+### [Partition Array for Maximum Sum](https://leetcode.com/problems/partition-array-for-maximum-sum/description/)
 
-![](./img/IMAGEM.png)
+![](./img/partition-array.png)
 
-### [](LINK)
+### [Reducing Dishes](https://leetcode.com/problems/reducing-dishes/description/)
 
-![](./img/IMAGEM.png)
+![](./img/reducing-dishes.png)
 
 
 ## Instalação

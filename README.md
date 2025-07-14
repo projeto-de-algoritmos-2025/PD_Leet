@@ -14,8 +14,8 @@ Este projeto visa resolver questões do leetcode relacionadas a algoritimos de P
 
 | Problema | Nome                                   | Dificuldade |
 |----------|----------------------------------------|-------------|
-| -      | []()                        | Médio       |
-| -     | []()                        | Difícil     |
+| 1235      | [Maximum Profit in Job Scheduling](https://leetcode.com/problems/maximum-profit-in-job-scheduling/description)                        | Difícil       |
+|  72    | [Edit Distance](https://leetcode.com/problems/edit-distance/description)                        | Médio     |
 | -     | []()                        | Médio       |
 | -    | []()                        | Difícil     |
 
@@ -25,11 +25,11 @@ Este projeto visa resolver questões do leetcode relacionadas a algoritimos de P
 
 ## Screenshots
 
-### [](LINK)
+### [Maximum Profit in Job Scheduling](https://leetcode.com/problems/maximum-profit-in-job-scheduling/description)
 
 ![](./img/IMAGEM.png)
 
-### [](LINK)
+### [Edit Distance](https://leetcode.com/problems/edit-distance/description)
 
 ![](./img/IMAGEM.png)
 

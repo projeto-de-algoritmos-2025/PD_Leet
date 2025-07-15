@@ -21,7 +21,7 @@ Este projeto visa resolver questões do leetcode relacionadas a algoritimos de P
 
 ## Apresentação
 
-[Apresentação no Youtube]()
+[Apresentação no Youtube](https://youtu.be/2Rvl6ilq9fQ)
 
 ## Screenshots
 
